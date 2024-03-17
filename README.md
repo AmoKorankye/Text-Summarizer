@@ -1,6 +1,6 @@
 # Text Summarizer
 
-![Text Summarizer Logo](text summary logo.png)
+![Text Summarizer Logo](summary.png)
 
 ## Overview
 
