@@ -4,7 +4,9 @@
 
 ## Overview
 
-This is a simple text summarization tool that generates a summary of a given input text using cosine similarity between sentences. Streamline text summarization with our versatile toolkit. Perfect for daily news, entertainment, and sports articles, our system extracts key information, providing concise summaries while preserving context. Simplify your reading experience and make informed decisions effortlessly.
+This is a simple text summarization tool that generates a summary of a given input text using cosine similarity between sentences. 
+
+Streamline text summarization with our versatile toolkit. Perfect for daily news, entertainment, and sports articles, our system extracts key information, providing concise summaries while preserving context. Simplify your reading experience and make informed decisions effortlessly.
 
 ## Installation
 
